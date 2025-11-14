@@ -577,5 +577,26 @@
         "wires": [
             []
         ]
+    },
+    {
+        "id": "5d7fdd3fa5bb6b2e",
+        "type": "catch",
+        "z": "623098a91b7d9743",
+        "name": "",
+        "scope": null,
+        "uncaught": false,
+        "x": 360,
+        "y": 2400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "58d040f0958cd873",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "node-red-dashboard": "3.6.6"
+        }
     }
 ]
