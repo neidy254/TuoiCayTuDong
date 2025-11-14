@@ -1,0 +1,12 @@
+{
+    "name": "TuoiCayTuDong",
+    "description": "tuoi cay tu dong :D",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
