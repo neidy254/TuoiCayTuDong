@@ -540,5 +540,42 @@
                 "3faaefed9136a37f"
             ]
         ]
+    },
+    {
+        "id": "c133b67a032751a6",
+        "type": "link out",
+        "z": "623098a91b7d9743",
+        "name": "link out 1",
+        "mode": "link",
+        "links": [],
+        "x": 395,
+        "y": 1380,
+        "wires": []
+    },
+    {
+        "id": "80bcbc6eb603d91e",
+        "type": "link call",
+        "z": "623098a91b7d9743",
+        "name": "",
+        "links": [],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 510,
+        "y": 1420,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "73a33af2e63b45e4",
+        "type": "link in",
+        "z": "623098a91b7d9743",
+        "name": "link in 1",
+        "links": [],
+        "x": 525,
+        "y": 1380,
+        "wires": [
+            []
+        ]
     }
 ]
